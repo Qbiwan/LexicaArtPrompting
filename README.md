@@ -25,3 +25,18 @@ Just playin'
 ![](images/mando3.png)  
   
 ---  
+**prompt**: "The Butterflies of Europe, botanical illustration, white background, style of Pierre-Joseph Redoute"
+
+![](images/butterfly1.png)  
+![](images/butterfly2.png)  
+![](images/butterfly3.png)  
+
+---
+
+**prompt**: "Man with flowers, Painted by René Magritte"
+
+![](images/Magritte1.png)  
+![](images/Magritte2.png)  
+
+---
+
